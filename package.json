@@ -1,0 +1,23 @@
+{
+	"name": "webcam-test",
+	"version": "1.0.0",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "webpack",
+		"start": "serve dist"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/madc0w/webcam-test.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/madc0w/webcam-test/issues"
+	},
+	"homepage": "https://github.com/madc0w/webcam-test#readme",
+	"devDependencies": {
+		"webpack": "^5.88.2",
+		"webpack-cli": "^5.1.4"
+	}
+}
